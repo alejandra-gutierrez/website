@@ -1,0 +1,132 @@
+[
+   {
+      "tags":[
+         "1"
+      ],
+      "testDefinitionId":"5ae7071e-9857-449a-9cfc-93a212afa82a",
+      "case_owners":[
+
+      ],
+      "subjects":[
+         {
+            "reportTypes":[
+               "604d8c81-049e-43a6-9106-16b5a08f9fac"
+            ],
+            "firstName":"",
+            "middleName":"",
+            "lastName":"",
+            "phenotypes":[
+               {
+                  "source":"HPO",
+                  "term":"Hirsutism",
+                  "code":"HP:0001007"
+               },
+               {
+                  "source":"OMIM",
+                  "term":"HIRSUTISM, SKELETAL DYSPLASIA, AND MENTAL RETARDATION",
+                  "code":"142625"
+               },
+               {
+                  "source":"HPO",
+                  "term":"Adrenogenital syndrome",
+                  "code":"HP:0000840"
+               },
+               {
+                  "source":"HPO",
+                  "term":"Congenital adrenal hyperplasia",
+                  "code":"HP:0008258"
+               }
+            ],
+            "relationshipToProband":"PROBAND",
+            "mrn":"1",
+            "ethnicity":"",
+            "samples":[
+               {
+                  "externalSampleId":"WGS1000-P1-A1",
+                  "molecularData":[
+
+                  ]
+               }
+            ],
+            "gender":"FEMALE",
+            "isAffected":"AFFECTED"
+         }
+      ],
+      "displayId":"Wave1_test1",
+      "externalCaseId":"269b337d443149539a1898a0d271d3b9"
+   },
+   {
+      "tags":[
+         "12"
+      ],
+      "testDefinitionId":"5ae7071e-9857-449a-9cfc-93a212afa82a",
+      "case_owners":[
+
+      ],
+      "subjects":[
+         {
+            "reportTypes":[
+               "604d8c81-049e-43a6-9106-16b5a08f9fac"
+            ],
+            "firstName":"",
+            "middleName":"",
+            "lastName":"",
+            "phenotypes":[
+
+            ],
+            "relationshipToProband":"PROBAND",
+            "mrn":"12",
+            "ethnicity":"",
+            "samples":[
+               {
+                  "externalSampleId":"WGS1000-P1-D2",
+                  "molecularData":[
+
+                  ]
+               }
+            ],
+            "gender":"MALE",
+            "isAffected":"AFFECTED"
+         }
+      ],
+      "displayId":"Wave1_test12",
+      "externalCaseId":"023f6edeba624ce39dc0fbfc4fa875d5"
+   },
+   {
+      "tags":[
+         "19"
+      ],
+      "testDefinitionId":"5ae7071e-9857-449a-9cfc-93a212afa82a",
+      "case_owners":[
+
+      ],
+      "subjects":[
+         {
+            "reportTypes":[
+               "604d8c81-049e-43a6-9106-16b5a08f9fac"
+            ],
+            "firstName":"",
+            "middleName":"",
+            "lastName":"",
+            "phenotypes":[
+
+            ],
+            "relationshipToProband":"PROBAND",
+            "mrn":"19",
+            "ethnicity":"",
+            "samples":[
+               {
+                  "externalSampleId":"WGS1000-P1-C3",
+                  "molecularData":[
+
+                  ]
+               }
+            ],
+            "gender":"FEMALE",
+            "isAffected":"AFFECTED"
+         }
+      ],
+      "displayId":"Wave1_test19",
+      "externalCaseId":"65ea9a95bf39481abb3b0a9c721f663b"
+   }
+]
